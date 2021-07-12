@@ -19,7 +19,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\Wc3\Wc3\bin\Debug\subtitle.txt" />
-  </ItemGroup>
 </Project>
